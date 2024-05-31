@@ -14,11 +14,23 @@
 <li>Jupyter Notebook: For interactive coding and presenting the analysis.</li>
 </ol>
 
-<!--<h3>Project Objectives</h3>
-<p>Main ojectives:</p>
-<ol>
-  <li>Understand Customer Preferences: Identify popular products, peak hours, and customer demographics.</li>
-  <li> </li>
-  <li> </li>
-</ol>
--->
+<hr></hr>
+<h3>Data Cleaning</h3>
+
+This part consisted of:
+
+1. **Identifying and Handling NULL Values**: 
+   - Identified NULL values in the dataset, but there weren't any to handle.
+
+2. **Identifying and Removing Duplicates**: 
+   - Searched for duplicate entries, but there weren't any to remove.
+
+3. **Converting Data Types**:
+   - Checked the data types of each column and converted them to the correct types where necessary.
+
+4. **Removing Unnecessary Columns**: 
+   - Dropped columns that didn't impact the analysis or those I wanted to calculate manually.
+
+5. **Renaming Columns**:
+   - Renamed columns to improve the understanding of the dataset.
+
