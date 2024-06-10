@@ -34,3 +34,14 @@ This part consisted of:
 5. **Renaming Columns**:
    - Renamed columns to improve the understanding of the dataset.
 
+
+<hr></hr>
+<h3>Data vizualization</h3>
+
+<!---<p> In this step i was looking for trends and customers behaviour patterns by highlight the following insights:</p>
+<ol>
+ <li></li>
+</ol>
+-->
+![image](https://github.com/ElenaD25/Python-projects/assets/91025810/c526302b-ced2-40fe-9a6f-4dd29f8a476b)
+
