@@ -43,5 +43,5 @@ This part consisted of:
  <li></li>
 </ol>
 -->
-![image](https://github.com/ElenaD25/Python-projects/assets/91025810/c526302b-ced2-40fe-9a6f-4dd29f8a476b)
+![image](https://github.com/ElenaD25/Python-projects/assets/91025810/74e9b57f-824d-4089-bc8a-17de94c8b813)
 
